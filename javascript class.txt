@@ -1,0 +1,42 @@
+Introduction , history
+where we can write: head tag, body tag, external JS
+In extermal JS= Resuability, developer can work on the script itself
+
+Declaration of variables in JS
+Data types
+Difference between null- intentional
+and undefined- interpreter unable to find value
+Non primitive data types- defined with help of primitive data types, user defined ex object, Array, RegExp
+
+
+JS is case sensitive
+
+Redclaration of variable with let keyword is not allowed in the same scope. Can be redclared in another scope like another function
+Takes the value of global variable
+
+Allowed with var keyword
+
+pre increment and post increment operators
+
+logical/and/or operators
+exclusive or/ exclusive nor
+
+Bitwise AND Bitwise OR
+
+Leftshift, rightshift operators
+8 bits= 1 byte
+4 bits= nibble
+
+If else , if , if else if statement in JavaScript
+
+Parameters- passed during function signature, ex function myFunc(a, b)-- specifies the data type
+Arguments- specified during function call , ex- myFunc(10,20)
+Only one return statement allowed inside any function at a time
+
+Objects in JS:
+Instances and objects are same in other languages but these are different here
+JS is an object based progrsmming language but not a class based programming language.
+
+Object- it is an instance of a class
+Class- collection of similar kind of elements ex- learners, faculties
+Object- particular instance of  aclass ex= Aprajita amongst learners
